@@ -4,7 +4,7 @@
 
 Remove any perk you own by going back to its own perk machine. No refund, and you can buy it again normally.
 
-![Perk Remove](https://github.com/PET3Ro/perk-remove/releases/download/v1/preview.png)
+![Perk Remove](https://github.com/SirKazuto/perk-remove/releases/download/v1/preview.png)
 
 ## Features
 
@@ -41,7 +41,7 @@ Works on every map that has perk machines in these modes.
 Open the Kronos launcher, go to the **Workshop**, find **Perk Remove** and click **Install**.
 
 ### Manual
-Download the files from the [latest release](https://github.com/PET3Ro/perk-remove/releases/latest) and put them here:
+Download the files from the [latest release](https://github.com/SirKazuto/perk-remove/releases/latest) and put them here:
 
 ```
 cod25\kronos\mods\perk_remove\mod.json
@@ -66,6 +66,6 @@ Then turn the mod on in the Mods menu.
 ## Credits
 
 - **Kazuto** - mod author
-- **MeowRaK** - help with the mod
+- **MeowRaK** - help with UAT(User acceptance testing)
 
 This code was AI-assisted.
