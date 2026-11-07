@@ -66,6 +66,6 @@ Then turn the mod on in the Mods menu.
 ## Credits
 
 - **Kazuto** - mod author
-- **MeowRaK** - User acceptance testing (UTA)
+- **@MeowRaK** - User acceptance testing (UTA)
 
 This code was AI-assisted.
